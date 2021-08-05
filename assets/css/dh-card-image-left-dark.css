@@ -20,6 +20,7 @@
   background-position: center;
   background-size: cover;
   border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
   min-height: 250px;
 }
 
